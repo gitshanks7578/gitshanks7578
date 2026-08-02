@@ -40,6 +40,13 @@ Most of my projects revolve around APIs, authentication, databases, and backend 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Testing & DevOps
+
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
 ---
 
 ### 💼 I've Worked With
@@ -62,10 +69,10 @@ Most of my projects revolve around APIs, authentication, databases, and backend 
 
 - Better backend architecture
 - System design fundamentals
-- Docker
-- Cloud deployment
-- Building more scalable applications
-
+- Docker & containerized deployments
+- CI/CD automation
+- Cloud infrastructure
+- Building scalable backend systems
 ---
 
 ### 🎯 A Little About Me
