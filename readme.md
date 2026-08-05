@@ -34,7 +34,7 @@ I spend most of my time around APIs, authentication, databases and backend archi
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=F5F5DC&vCenter=true&repeat=true&width=850&lines=loading+curiosity...;loading+system+design...;loading+docker+knowledge...;there's+always+another+%22why%3F%22+worth+asking." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=F5F5DC&vCenter=true&repeat=true&width=850&lines=loading+curiosity...;console.log(and+here+goes+the+env+:)...;loading+docker+knowledge...;there's+always+another+%22why%3F%22+worth+asking." alt="Typing SVG"/>
 
 ---
 
