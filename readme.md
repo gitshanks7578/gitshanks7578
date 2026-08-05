@@ -76,7 +76,7 @@ Most of my work revolves around APIs, authentication, databases and backend arch
 
 ## 🤝 Connect with me
 
-<p>
+
   <a href="https://www.linkedin.com/in/shashank-upadhyay-58145833b/?name=Building%20with%20the%20Claude%20API&organizationId=74126343&issueYear=2026&issueMonth=3&expirationYear=%27%27&expirationMonth=%27%27&certUrl=https%3A%2F%2Fverify.skilljar.com%2Fc%2Ffqrcrkgvc68k&certId=fqrcrkgvc68k" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
@@ -84,7 +84,7 @@ Most of my work revolves around APIs, authentication, databases and backend arch
   <a href="mailto:shashanku346@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
   </a>
-</p>
+
 
 
 
