@@ -1,124 +1,78 @@
-```md
-<!-- ============================================= -->
-<!--                Shashank Upadhyay              -->
-<!-- ============================================= -->
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=10B981&center=false&vCenter=true&width=600&lines=backend+developer.;building+software+behind+the+frontend.;trying+to+write+boring+code+that+never+breaks.;currently+learning+things+the+hard+way." alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3200&pause=1200&color=22C55E&vCenter=true&repeat=true&width=700&lines=backend+developer.;building+things+that+live+behind+the+frontend.;currently+obsessed+with+systems%2C+docker+and+good+apis.;console.log()+still+has+my+back." />
+# shashank upadhyay
 
-#
+i'm a computer science student (artificial intelligence & data science @ galgotias college) who spends most of his time working on backend services, database architectures, and understanding what happens after an HTTP request leaves the client.
 
-Hi, I'm **Shashank** 👋
-
-I'm a Computer Science student who enjoys building backend systems more than pretty UIs.
-
-Most of my time goes into APIs, authentication, databases, and trying to understand *why* software works—not just making it work.
+i prefer writing predictable REST APIs, designing database schemas that make sense, and making sure authentication doesn't fall apart at 2 AM.
 
 ---
 
-### currently
+### 🛠️ technologies i use
 
-🟢 building backend projects
-
-🟢 learning Docker, CI/CD & system design
-
-🟢 convincing PostgreSQL and Prisma to behave
-
-🟢 slowly becoming friends with distributed systems
-
----
-
-### i spend most of my time here
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express"/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode"/>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mongodb,mysql,prisma,redis,docker,githubactions,vitest,git,postman&perline=7" alt="Tech Stack" />
+  </a>
 </p>
 
----
-
-### things i've built
-
-🔐 **Authentication API**
-
-> JWT • Refresh Tokens • Google OAuth • 2FA • Email Verification • Rate Limiting
+- **languages:** TypeScript, JavaScript, SQL
+- **backend:** Node.js, Express.js, REST APIs
+- **databases & ORMs:** PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM
+- **devops & testing:** Docker, GitHub Actions, Vitest, Supertest, Git, Postman
 
 ---
 
-🤖 **NL2SQL**
+### ⚙️ what i've built
 
-> Ask questions in English. Get SQL back.
+#### **NL2SQL — Schema-Aware Natural Language to SQL Backend**
+*TypeScript • Express • PostgreSQL • MySQL • Prisma • Groq/Gemini APIs*
+- Built an LLM-powered engine that converts natural language queries into executable SQL for PostgreSQL and MySQL.
+- Implemented automated schema ingestion, relationship mapping, and live context retrieval to keep generated queries accurate to the database structure.
 
----
+#### **Authentication API**
+*Node.js • Express • MongoDB • Redis • Docker • Vitest • GitHub Actions*
+- Designed a hybrid auth architecture featuring 13 REST endpoints combining stateless JWT access tokens with session-backed refresh token rotation.
+- Built token reuse detection, TOTP 2FA, Google OAuth 2.0, rate limiting, and audit logging.
+- Covered by 50+ integration tests (~77% coverage) using Vitest/Supertest and automated via GitHub Actions CI.
 
-💼 **Job Portal**
-
-> Full-stack job portal built with React, Express and MongoDB.
-
----
-
-### currently learning
-
-```
-
-□ Kubernetes
-
-■■■■□□□□ Docker
-
-■■■□□□□□ CI/CD
-
-■■□□□□□□ System Design
-
-■■■■■□□□ Backend Architecture
-
-```
+#### **Job Portal**
+*Node.js • Express • MongoDB • React • Tailwind CSS*
+- Built a job portal with role-based JWT authentication, candidate/recruiter workflows, protected REST APIs, and application tracking.
 
 ---
 
-### github
+### 🌿 current focus
 
-<p>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitshanks7578&show_icons=true&theme=merko&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitshanks7578&layout=compact&theme=merko&hide_border=true"/>
-
-</p>
-
-<p>
-
-<img src="https://streak-stats.demolab.com?user=gitshanks7578&theme=merko&hide_border=true"/>
-
-</p>
+- digging deeper into backend system design fundamentals and system resilience
+- containerizing services with Docker and refining automated testing pipelines
+- exploring context-aware LLM pipeline integration for backend dev tools
 
 ---
 
-### contribution graph
+### 📜 certifications & training
 
-<p>
-
-<img src="https://raw.githubusercontent.com/gitshanks7578/gitshanks7578/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
+- **Building with the Claude API** — Anthropic
+- **SQL (Basic)** — HackerRank
+- **10-Week Engineering Internship Program** — internForte
 
 ---
 
-### find me here
+### 🎲 random facts
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+- (placeholder)
+- (placeholder)
+- (placeholder)
+- (placeholder)
 
 ---
 
-```
+### 📫 contact
 
-backend > frontend
-
-(i'm willing to debate this.)
-
-```
-```
+- **email:** [shashanku346@gmail.com](mailto:shashanku346@gmail.com)
+- **linkedin:** [Shashank Upadhyay](https://linkedin.com)
+- **github:** you're already here.
