@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+TypeScript;Building+Scalable+APIs;Always+Learning..." />
+</p>
 # Hi, I'm Shashank Upadhyay 👋
 
 ### Computer Science Student • Backend Development Enthusiast
