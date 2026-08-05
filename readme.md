@@ -20,9 +20,7 @@ Most of my projects revolve around APIs, authentication, databases, and backend 
 
 ---
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gitshanks7578&theme=tokyonight"/>
-
+<img src="https://raw.githubusercontent.com/gitshanks7578/gitshanks7578/output/github-contribution-grid-snake.svg">
 </p>
 
 ### 💼 I've Worked With
