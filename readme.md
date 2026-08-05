@@ -1,10 +1,10 @@
-# backend developer.
+# Hi , I'm Shashank!
 
 currently trying to understand software a little better every day.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=55B75E&vCenter=true&repeat=true&width=850&lines=there+is+probably+a+console.log+somewhere.+%3AP;backend+%3E+frontend.;if+the+API+returns+200%2C+we+celebrate.;currently+compiling+better+engineering+decisions..." alt="Typing SVG" />
 
-I'm **Shashank Upadhyay**, a Computer Science student who enjoys building software behind the frontend.
+I'm a **backend developer** and a Computer Science student who enjoys building software behind the frontend.
 
 I spend most of my time around APIs, authentication, databases and backend architecture—always trying to understand **why** something works, not just **how**.
 
