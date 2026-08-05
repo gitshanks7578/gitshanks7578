@@ -81,7 +81,7 @@ Most of my work revolves around APIs, authentication, databases and backend arch
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   
-  &nbsp;&nbsp;
+  <br>
   
   <a href="mailto:shashanku346@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
