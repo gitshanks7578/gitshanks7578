@@ -1,78 +1,82 @@
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=10B981&center=false&vCenter=true&width=600&lines=backend+developer.;building+software+behind+the+frontend.;trying+to+write+boring+code+that+never+breaks.;currently+learning+things+the+hard+way." alt="Typing SVG" />
-  </a>
-</div>
+```md
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1500&color=55B75E&vCenter=true&repeat=true&width=700&lines=there+is+probably+a+console.log+somewhere.+%3AP" alt="Typing SVG"/>
 
-# shashank upadhyay
+# backend developer.
 
-i'm a computer science student (artificial intelligence & data science @ galgotias college) who spends most of his time working on backend services, database architectures, and understanding what happens after an HTTP request leaves the client.
+currently trying to understand software a little better every day.
 
-i prefer writing predictable REST APIs, designing database schemas that make sense, and making sure authentication doesn't fall apart at 2 AM.
+I'm **Shashank Upadhyay**, a Computer Science student who enjoys building software that lives behind the frontend.
+
+I like understanding **why** things work just as much as making them work. Most of my time goes into designing APIs, authentication systems, databases, and slowly piecing together how modern backend systems are built.
+
+If the API returns **200**, we celebrate.
 
 ---
 
-### 🛠️ technologies i use
+## what i've been building around
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mongodb,mysql,prisma,redis,docker,githubactions,vitest,git,postman&perline=7" alt="Tech Stack" />
-  </a>
+Over the last few months I've spent most of my time working around:
+
+- REST APIs
+- Authentication & Authorization
+- JWT & Refresh Token flows
+- Google OAuth
+- Two-Factor Authentication
+- Backend security & rate limiting
+- MongoDB, PostgreSQL & MySQL
+- Prisma ORM
+- Database schema design
+- API validation & error handling
+- Backend testing
+- Docker fundamentals
+- Git & GitHub workflows
+- CI pipelines
+- LLM-powered backend applications
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,mongodb,postgres,mysql,redis,prisma,docker,git,github,postman,vscode&perline=7" />
+
 </p>
 
-- **languages:** TypeScript, JavaScript, SQL
-- **backend:** Node.js, Express.js, REST APIs
-- **databases & ORMs:** PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM
-- **devops & testing:** Docker, GitHub Actions, Vitest, Supertest, Git, Postman
+---
+
+## what i'm exploring
+
+I'm at that stage where building projects teaches me more than watching tutorials.
+
+Right now I'm trying to understand software a little deeper by exploring:
+
+- Better backend architecture
+- System Design
+- Docker & containerized deployments
+- CI/CD automation
+- Cloud infrastructure
+- Kubernetes
+- Distributed systems
+- Observability
+- Designing software that's easier to maintain than it is to build
 
 ---
 
-### ⚙️ what i've built
-
-#### **NL2SQL — Schema-Aware Natural Language to SQL Backend**
-*TypeScript • Express • PostgreSQL • MySQL • Prisma • Groq/Gemini APIs*
-- Built an LLM-powered engine that converts natural language queries into executable SQL for PostgreSQL and MySQL.
-- Implemented automated schema ingestion, relationship mapping, and live context retrieval to keep generated queries accurate to the database structure.
-
-#### **Authentication API**
-*Node.js • Express • MongoDB • Redis • Docker • Vitest • GitHub Actions*
-- Designed a hybrid auth architecture featuring 13 REST endpoints combining stateless JWT access tokens with session-backed refresh token rotation.
-- Built token reuse detection, TOTP 2FA, Google OAuth 2.0, rate limiting, and audit logging.
-- Covered by 50+ integration tests (~77% coverage) using Vitest/Supertest and automated via GitHub Actions CI.
-
-#### **Job Portal**
-*Node.js • Express • MongoDB • React • Tailwind CSS*
-- Built a job portal with role-based JWT authentication, candidate/recruiter workflows, protected REST APIs, and application tracking.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4200&pause=1200&color=F5F5DC&vCenter=true&repeat=true&width=900&lines=there's+always+another+'why%3F'+worth+asking." alt="Typing SVG"/>
 
 ---
 
-### 🌿 current focus
+## how i like to build
 
-- digging deeper into backend system design fundamentals and system resilience
-- containerizing services with Docker and refining automated testing pipelines
-- exploring context-aware LLM pipeline integration for backend dev tools
+I enjoy building things that solve real problems instead of tutorial problems.
 
----
+I'm happiest somewhere between writing APIs, figuring out why something broke, reading documentation I probably should've read earlier, and making the next version a little cleaner than the last.
 
-### 📜 certifications & training
-
-- **Building with the Claude API** — Anthropic
-- **SQL (Basic)** — HackerRank
-- **10-Week Engineering Internship Program** — internForte
+Backend engineering keeps pulling me in because there's always another layer to understand.
 
 ---
 
-### 🎲 random facts
+## let's connect
 
-- (placeholder)
-- (placeholder)
-- (placeholder)
-- (placeholder)
+I'm always happy to talk about backend engineering, interesting projects, open source, startups, or just exchange ideas with people who enjoy building things.
 
----
-
-### 📫 contact
-
-- **email:** [shashanku346@gmail.com](mailto:shashanku346@gmail.com)
-- **linkedin:** [Shashank Upadhyay](https://linkedin.com)
-- **github:** you're already here.
+- LinkedIn → **your-link**
+- Email → **your-email**
+```
