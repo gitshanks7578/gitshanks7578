@@ -19,6 +19,13 @@ Most of my projects revolve around APIs, authentication, databases, and backend 
 </p>
 
 ---
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitshanks7578&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitshanks7578&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ### 💼 I've Worked With
 
