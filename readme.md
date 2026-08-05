@@ -40,29 +40,39 @@ I spend most of my time around APIs, authentication, databases and backend archi
 
 ---
 
-## 🌱 currently exploring
+## 🚀 I've worked around 
 
-- 🏗️ Better Backend Architecture
-- ☁️ Cloud Infrastructure
-- ⚓ Kubernetes
-- 🔄 Distributed Systems
-- 📊 Observability
-- 🚀 Building software that scales without becoming painful to maintain
+- Designing and building REST APIs
+- Authentication & Authorization 
+- JWT Access / Refresh Token architecture 
+- Google OAuth integration 
+- Two-Factor Authentication (TOTP) 
+- Role-based authorization 
+- Secure cookie & token handling 
+- API validation & centralized error handling 
+- Rate limiting & backend security 
+- Audit logging 
+- Backend testing with integration tests 
+- LLM-powered backend services 
+- Database schema design 
+- Prisma ORM - MongoDB, PostgreSQL & MySQL 
+- Dockerized development environments 
+- CI/CD workflows with GitHub Actions 
+- Git-based development workflows
 
 ---
 
-## 💭 approach
+## 🌱 Currently exploring and wish to learn about in future
+- Better backend architecture
+- System Design
+- Distributed Systems
+- Kubernetes
+- Cloud Infrastructure 
+- Observability 
+- Performance optimization 
+- Scalable backend patterns 
+- Event-driven architecture 
+- Building software that's easy to maintain
+- AI Agent backend architecture
 
-✔️ Learn by building.
 
-✔️ Break things. Fix them. Understand them.
-
-✔️ If the API returns **200**, we celebrate.
-
----
-
-## 🤝 let's connect
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-```
