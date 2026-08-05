@@ -6,7 +6,7 @@ currently trying to understand software a little better every day.
 
 I'm a **backend developer** and a Computer Science student who enjoys building software behind the frontend.
 
-I spend most of my time around APIs, authentication, databases and backend architecture—always trying to understand **why** something works, not just **how**.
+Most of my work revolves around APIs, authentication, databases and backend architecture. I'm always trying to understand **why** something works—not just **how**.
 
 ---
 
@@ -33,11 +33,11 @@ I spend most of my time around APIs, authentication, databases and backend archi
 
 
 ---
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00FF41&vCenter=true&repeat=true&width=950&lines=console.log()+is+still+undefeated.;docker+compose+up...+fingers+crossed.;works+on+localhost%3F+yeah,no+shit+sherlock.;there's+always+another+%22why%3F%22+worth+asking." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00FF41&vCenter=true&repeat=true&width=950&lines=console.log()+is+still+undefeated.;docker+compose+up...+fingers+crossed.;works+on+localhost%3F+ofcourse+it+does.;there's+always+another+%22why%3F%22+worth+asking." alt="Typing SVG"/>
 
 ---
 
-## 🚀 I've worked around 
+## 🚀 Experience so far
 
 - Designing and building REST APIs
 - Authentication & Authorization 
