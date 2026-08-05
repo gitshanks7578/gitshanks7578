@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=55B75E&vCenter=true&repeat=true&width=850&lines=there+is+probably+a+console.log+somewhere.+%3AP;backend+%3E+frontend.;if+the+API+returns+200%2C+we+celebrate.;currently+compiling+better+engineering+decisions..." alt="Typing SVG" />
-
 # backend developer.
 
 currently trying to understand software a little better every day.
