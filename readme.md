@@ -21,9 +21,7 @@ Most of my projects revolve around APIs, authentication, databases, and backend 
 ---
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitshanks7578&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitshanks7578&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=gitshanks7578&theme=tokyonight"/>
 
 </p>
 
