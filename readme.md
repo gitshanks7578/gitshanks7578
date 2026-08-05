@@ -78,7 +78,7 @@ I enjoy learning by building projects rather than just following tutorials. Ever
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitshanks7578&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shashank's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitshanks7578&theme=tokyonight&hide_border=true&background=0D1117" alt="Shashank's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gitshanks7578&theme=tokyonight&hide_border=true&background=0D1117" alt="Shashank's GitHub Streak" />
 </p>
 
 <p align="center">
