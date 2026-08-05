@@ -1,82 +1,77 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1500&color=55B75E&vCenter=true&repeat=true&width=700&lines=there+is+probably+a+console.log+somewhere.+%3AP" alt="Typing SVG"/>
+<!-- ============================= -->
+<!--      SHASHANK UPADHYAY        -->
+<!-- ============================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=55B75E&vCenter=true&repeat=true&width=850&lines=there+is+probably+a+console.log+somewhere.+%3AP;backend+%3E+frontend.;if+the+API+returns+200%2C+we+celebrate.;currently+compiling+better+engineering+decisions..." alt="Typing SVG" />
 
 # backend developer.
 
 currently trying to understand software a little better every day.
 
-I'm **Shashank Upadhyay**, a Computer Science student who enjoys building software that lives behind the frontend.
+🟢 **status:** building • learning • occasionally debugging
 
-I like understanding **why** things work just as much as making them work. Most of my time goes into designing APIs, authentication systems, databases, and slowly piecing together how modern backend systems are built.
+I'm **Shashank Upadhyay**, a Computer Science student who enjoys building software behind the frontend.
 
-If the API returns **200**, we celebrate.
+I spend most of my time around APIs, authentication, databases and backend architecture—always trying to understand **why** something works, not just **how**.
 
 ---
 
-## what i've been building around
+## ⚡ working with
 
-Over the last few months I've spent most of my time working around:
+🌐 REST APIs
 
-- REST APIs
-- Authentication & Authorization
-- JWT & Refresh Token flows
-- Google OAuth
-- Two-Factor Authentication
-- Backend security & rate limiting
-- MongoDB, PostgreSQL & MySQL
-- Prisma ORM
-- Database schema design
-- API validation & error handling
-- Backend testing
-- Docker fundamentals
-- Git & GitHub workflows
-- CI pipelines
-- LLM-powered backend applications
+🔐 Authentication • JWT • OAuth • 2FA
+
+🛡️ API Security • Rate Limiting
+
+🗄️ MongoDB • PostgreSQL • MySQL
+
+⚡ Prisma ORM
+
+🧪 Backend Testing
+
+🤖 LLM-powered Backends
+
+🐳 Docker
+
+⚙️ Git • GitHub • CI/CD
+
+<br>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,mongodb,postgres,mysql,redis,prisma,docker,git,github,postman,vscode&perline=7" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,mongodb,postgres,mysql,redis,prisma,docker,git,github,postman,vscode&theme=dark"/>
 </p>
 
 ---
 
-## what i'm exploring
-
-I'm at that stage where building projects teaches me more than watching tutorials.
-
-Right now I'm trying to understand software a little deeper by exploring:
-
-- Better backend architecture
-- System Design
-- Docker & containerized deployments
-- CI/CD automation
-- Cloud infrastructure
-- Kubernetes
-- Distributed systems
-- Observability
-- Designing software that's easier to maintain than it is to build
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=F5F5DC&vCenter=true&repeat=true&width=850&lines=loading+curiosity...;loading+system+design...;loading+docker+knowledge...;there's+always+another+%22why%3F%22+worth+asking." alt="Typing SVG"/>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4200&pause=1200&color=F5F5DC&vCenter=true&repeat=true&width=900&lines=there's+always+another+'why%3F'+worth+asking." alt="Typing SVG"/>
+## 🌱 currently exploring
+
+- 🏗️ Better Backend Architecture
+- ☁️ Cloud Infrastructure
+- ⚓ Kubernetes
+- 🔄 Distributed Systems
+- 📊 Observability
+- 🚀 Building software that scales without becoming painful to maintain
 
 ---
 
-## how i like to build
+## 💭 approach
 
-I enjoy building things that solve real problems instead of tutorial problems.
+✔️ Learn by building.
 
-I'm happiest somewhere between writing APIs, figuring out why something broke, reading documentation I probably should've read earlier, and making the next version a little cleaner than the last.
+✔️ Break things. Fix them. Understand them.
 
-Backend engineering keeps pulling me in because there's always another layer to understand.
+✔️ If the API returns **200**, we celebrate.
 
 ---
 
-## let's connect
+## 🤝 let's connect
 
-I'm always happy to talk about backend engineering, interesting projects, open source, startups, or just exchange ideas with people who enjoy building things.
-
-- LinkedIn → **your-link**
-- Email → **your-email**
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
 ```
