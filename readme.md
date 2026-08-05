@@ -32,9 +32,7 @@ I spend most of my time around APIs, authentication, databases and backend archi
 ### Testing & DevOps :
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,mongodb,postgres,mysql,redis,prisma,docker,git,github,postman,vscode&theme=dark"/>
-</p>
+
 
 ---
 
