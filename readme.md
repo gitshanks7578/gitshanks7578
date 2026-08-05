@@ -1,4 +1,4 @@
-```md
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1500&color=55B75E&vCenter=true&repeat=true&width=700&lines=there+is+probably+a+console.log+somewhere.+%3AP" alt="Typing SVG"/>
 
 # backend developer.
