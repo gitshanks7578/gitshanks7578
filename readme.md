@@ -33,7 +33,7 @@ I spend most of my time around APIs, authentication, databases and backend archi
 
 
 ---
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00FF41&vCenter=true&repeat=true&width=950&lines=console.log()+is+still+undefeated.;docker+compose+up...+fingers+crossed.;works+on+localhost%3F+i+bet+it+does+haha;there's+always+another+%22why%3F%22+worth+asking." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00FF41&vCenter=true&repeat=true&width=950&lines=console.log()+is+still+undefeated.;docker+compose+up...+fingers+crossed.;works+on+localhost%3F+yeah,no+shit+sherlock;there's+always+another+%22why%3F%22+worth+asking." alt="Typing SVG"/>
 
 ---
 
